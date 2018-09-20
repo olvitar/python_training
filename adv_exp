@@ -1,0 +1,40 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from tokens import ADV_LOGIN, ADV_PASSWORD
+
+driver = webdriver.Firefox()
+
+
+def login():
+    driver.get("https://www.bigaads.com/index.php")
+    driver.find_element_by_name("username").send_keys(ADV_LOGIN)
+    driver.find_element_by_name("password").send_keys(ADV_PASSWORD)
+    driver.find_element_by_name("submit").send_keys(Keys.RETURN)
+    driver.get("https://www.bigaads.com/BonusAds.php")
+    driver.save_screenshot('screenshot.png')  # make a screenshot of the paige
+
+def click_adv():
+    try:
+        driver.find_element_by_css_selector("button.allpageinside_allthepage_inside_pagein_adstoclickonce_actions_view").click()
+        driver.find_element_by_xpath("//div[@id='allpageinside_allthepage_inside_pagein_viewadsporter']/a/button").click()
+        element = WebDriverWait(driver, 22).until(EC.element_to_be_clickable((By.ID, 'body_headerviewads_countdown_confirm_button')))
+        element.click()
+    except:
+        print('You watched all bonus adverts for today')
+
+def logout():
+    driver.find_element_by_partial_link_text('logout').click()
+
+login()
+
+i=0
+while i<10:
+    click_adv()
+    i += 1
+    print("You watched ", i , " advertisement")
+print("Everything is Ok")
+logout()
+driver.quit()
