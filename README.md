@@ -1,4 +1,6 @@
 # python_training
 softwaretesting.ru, Barancev training
 Repository for training
-Start from the mew line
+Testing selenium WebDriver on adverts clickers
+Add driver screenshots of the page
+Add emojies!!!
