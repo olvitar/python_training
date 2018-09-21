@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e2cbaf1-657d-494a-8947-e46d91ef7677" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_training.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_training.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv_exp" beforeDir="false" afterPath="$PROJECT_DIR$/adv_exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paid_ads.py" beforeDir="false" afterPath="$PROJECT_DIR$/paid_ads.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,35 +24,35 @@
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="8" />
-          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.8" value="5" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="24" />
+          <entry key="project.opened" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="adv_exp" value="1" />
-          <entry key="png" value="3" />
+          <entry key="png" value="9" />
           <entry key="py" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="3" />
+          <entry key="Image" value="9" />
           <entry key="Python" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="adv_exp" value="166" />
+          <entry key="adv_exp" value="167" />
           <entry key="dummy" value="18" />
-          <entry key="py" value="1401" />
+          <entry key="py" value="1585" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="18" />
-          <entry key="Python" value="1567" />
+          <entry key="Python" value="1752" />
         </counts>
       </usages-collector>
     </session>
@@ -63,7 +62,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_hunters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state>
               <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="40" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
@@ -90,20 +89,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/try_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="51" column="39" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="39" />
+            <state relative-caret-position="263">
+              <caret line="48" selection-start-line="48" selection-end-line="48" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/adv_exp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="78" />
+            <state relative-caret-position="312">
+              <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -114,8 +113,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/paid_ads.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+            <state relative-caret-position="236">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="42" selection-end-column="79" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -127,7 +126,7 @@
         <entry file="file://$PROJECT_DIR$/emoji.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -166,9 +165,9 @@
         <option value="$PROJECT_DIR$/tokens/adv_tokens.py" />
         <option value="$PROJECT_DIR$/test_pyt.py" />
         <option value="$PROJECT_DIR$/tokens.py" />
-        <option value="$PROJECT_DIR$/adv_exp" />
-        <option value="$PROJECT_DIR$/paid_ads.py" />
         <option value="$PROJECT_DIR$/emoji.py" />
+        <option value="$PROJECT_DIR$/paid_ads.py" />
+        <option value="$PROJECT_DIR$/adv_exp" />
       </list>
     </option>
   </component>
@@ -183,7 +182,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,6 +197,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,7 +216,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.paid_ads">
+  <component name="RunManager" selected="Python.adv_exp">
     <configuration name="adv_exp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -320,8 +319,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.paid_ads" />
         <item itemvalue="Python.adv_exp" />
+        <item itemvalue="Python.paid_ads" />
         <item itemvalue="Python tests.pytest in test_pyt.py" />
         <item itemvalue="Python tests.pytest in /Users/bughunter/Dev/python_training/katalon_test.py" />
         <item itemvalue="Python.sum" />
@@ -386,12 +385,12 @@
     <frame x="20" y="43" width="1400" height="760" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32934132" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32934132" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32934132" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997006" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -428,12 +427,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_add.py" />
     <entry file="file://$PROJECT_DIR$/test_link.py" />
-    <entry file="file://$PROJECT_DIR$/screenshot1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/screenshot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/adv_exp.py" />
     <entry file="file://$PROJECT_DIR$/add_test.py" />
     <entry file="file://$PROJECT_DIR$/test_gui.py">
@@ -456,17 +449,13 @@
     <entry file="file://$PROJECT_DIR$/ads_test.py" />
     <entry file="file://$PROJECT_DIR$/tokens/__init__.py" />
     <entry file="file://$PROJECT_DIR$/tokens/adv_tokens.py" />
-    <entry file="file://$PROJECT_DIR$/tokens.py">
+    <entry file="file://$PROJECT_DIR$/test_hunters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="51" column="39" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="39" />
+        <state>
+          <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -477,40 +466,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_hunters.py">
+    <entry file="file://$PROJECT_DIR$/tokens.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/emoji.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshot1.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/paid_ads.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        <state relative-caret-position="236">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="42" selection-end-column="79" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/adv_exp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="78" />
+        <state relative-caret-position="312">
+          <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="48" selection-start-line="48" selection-end-line="48" selection-end-column="8" />
         </state>
       </provider>
     </entry>

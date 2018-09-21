@@ -34,7 +34,10 @@ i=0
 while i<10:
     click_adv()
     i += 1
-    print("You watched ", i , " advertisement")
+    print("You watched ", i, " advertisement")
 print("Everything is Ok")
+footer = driver.find_element_by_class_name("socials")  # find element Footer
+footer.location_once_scrolled_into_view  # scroll page to the element Footer
+driver.save_screenshot('screenshot.png')  # make a screenshot of the paige
 logout()
 driver.quit()
